@@ -1,9 +1,9 @@
 Artist Graph
 ============
 
-This project provides a system for the extration of artist names in art related media.
-The extraction process is configurable with a special JSON/Javascript config file and based on a database with artist namens (artistnames.sql).
-The result is saved in the database as well (namedata.sql).
+This project provides a system for the extration of artist names in art related media.<br/>
+The extraction process is configurable with a special JSON/Javascript config file and based on a database with artist namens (artistnames.sql).<br/>
+The result is saved in the database as well (namedata.sql).<br/>
 The databases are configurable in settings.ini.
 
 
@@ -95,7 +95,7 @@ Example of a config file
 
 Required libraries
 ------------------
-Stanford NER - http://nlp.stanford.edu/downloads/CRF-NER.shtml
+Stanford NER - http://nlp.stanford.edu/downloads/CRF-NER.shtml<br/>
 jsoup - http://jsoup.org
 
 
